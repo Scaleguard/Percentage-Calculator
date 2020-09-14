@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\bin\Debug\netcoreapp3.1\PercentigCalculator.exe
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\bin\Debug\netcoreapp3.1\PercentigCalculator.deps.json
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\bin\Debug\netcoreapp3.1\PercentigCalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\bin\Debug\netcoreapp3.1\PercentigCalculator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\bin\Debug\netcoreapp3.1\PercentigCalculator.dll
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\bin\Debug\netcoreapp3.1\PercentigCalculator.pdb
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\obj\Debug\netcoreapp3.1\PercentigCalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\obj\Debug\netcoreapp3.1\PercentigCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\obj\Debug\netcoreapp3.1\PercentigCalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\obj\Debug\netcoreapp3.1\PercentigCalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\obj\Debug\netcoreapp3.1\PercentigCalculator.dll
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\obj\Debug\netcoreapp3.1\PercentigCalculator.pdb
+C:\Users\opilane\source\repos\PercentigCalculator\PercentigCalculator\obj\Debug\netcoreapp3.1\PercentigCalculator.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PercentigCalculator/1.0.0": {
+        "runtime": {
+          "PercentigCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PercentigCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
